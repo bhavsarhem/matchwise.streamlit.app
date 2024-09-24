@@ -34,7 +34,7 @@ MatchWise is an AI-powered web application that helps users analyze and score re
 - Google Gemini API Key
 - Streamlit
 
-### Installation
+### Installation ⬇️
 
 1. Clone the repository:
 
