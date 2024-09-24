@@ -51,15 +51,14 @@ MatchWise is an AI-powered web application that helps users analyze and score re
    ```
    Generate your own Gemini API-Key from [here 🔗](https://ai.google.dev/gemini-api/docs/api-key#:~:text=The%20Google%20AI%20Gemini%20API%20uses%20API%20keys%20for%20authorization.)
 
-### 📲 Running the Application
+### ▶️ Running the Application
 
 - Once all dependencies are installed, run the Streamlit application:
 
   ```bash
   streamlit run app.py
   ```
-
-- The application will open in your browser at `http://localhost:8501/`.
+  Write the above code in terminal.
 
 ## 🛠️ Contributing
 
@@ -86,17 +85,17 @@ We welcome contributions from the open-source community! To get started:
 
 5. Open a Pull Request on GitHub.
 
-### Contributions for Hacktoberfest 2024
+### Contributions for Hacktoberfest 2024 🏆
 
-We are proud participants in Hacktoberfest 2024! Here’s how you can contribute:
-
+We are proud participants in Hacktoberfest! Here’s how you can contribute:
+ 
 - 📊 **New Features**: Help us add new features like advanced parsing, custom matching algorithms, or new file formats.
 - 🐛 **Bug Fixes**: Hunt down bugs and suggest improvements.
 - 📖 **Documentation**: Improve this `README`, write tutorials, or add comments to the code.
 - 🎨 **UI/UX Improvements**: Enhance the web app's design, layout, or accessibility.
 - 💡 **Open to Ideas**: Feel free to propose any new features or improvements.
 
-### Guidelines
+Guidelines:
 
 - Please ensure your contributions align with the existing coding style.
 - Always provide clear commit messages and proper PR descriptions.
