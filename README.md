@@ -133,6 +133,6 @@ Thanks to all our contributors, Hacktoberfest participants, and the open-source 
 ```
 
 ### Notes:
-- Make sure to update the GitHub repository link (`https://github.com/your-username/MatchWise.git`) with the actual repo URL.
+- Make sure to update the GitHub repository link (`https://github.com/bhavsarhem/matchwise.streamlit.app.git`) with the actual repo URL.
 - Add a `requirements.txt` file in your project for dependencies.
 - The `.env` file should contain sensitive API keys securely. Don't forget to include instructions or an example `.env` file.
