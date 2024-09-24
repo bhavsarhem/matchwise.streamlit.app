@@ -1,15 +1,3 @@
-<!-- # MatchWise: A Resume Matching and Scoring Web Application 
-By leveraging AI and user-friendly design, this web application aims to empower job seekers and enhance the overall efficiency of the job search process.
-
-<div align="center">
-  <a href="https://github.com/mfts/papermark/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mfts/papermark"></a>
-  <a href="https://x.com/Psycho2049"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mfts0"></a>
-  <a href="https://github.com/mfts/papermark/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-AGPLv3-purple"></a>
-</div>
-
-<a href="https://github.com/bhavsarhem/matchwise.streamlit.app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=bhavsarhem/matchwise.streamlit.app" />
-</a> -->
 # MatchWise: A Resume Matching and Scoring Web Application
 
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2024-blueviolet)
@@ -34,7 +22,7 @@ MatchWise is an AI-powered web application that helps users analyze and score re
 - Google Gemini API Key
 - Streamlit
 
-### Installation ⬇️
+### ⬇️ Installation
 
 1. Clone the repository:
 
@@ -48,7 +36,7 @@ MatchWise is an AI-powered web application that helps users analyze and score re
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
-   For More info [clicl here 🔗](https://python.land/virtual-environments/virtualenv)
+   For More info [click here 🔗](https://python.land/virtual-environments/virtualenv)
 
 3. Install the required dependencies:
 
@@ -61,16 +49,17 @@ MatchWise is an AI-powered web application that helps users analyze and score re
    ```bash
    GOOGLE_API_KEY = "YOUR_GOOGLE_GEMINE_API_KEY"
    ```
+   Generate your own Gemini API-Key from [here 🔗](https://ai.google.dev/gemini-api/docs/api-key#:~:text=The%20Google%20AI%20Gemini%20API%20uses%20API%20keys%20for%20authorization.)
 
-### Running the Application
+### 📲 Running the Application
 
-Once all dependencies are installed, run the Streamlit application:
+- Once all dependencies are installed, run the Streamlit application:
 
-```bash
-streamlit run app.py
-```
+  ```bash
+  streamlit run app.py
+  ```
 
-The application will open in your browser at `http://localhost:8501/`.
+- The application will open in your browser at `http://localhost:8501/`.
 
 ## 🛠️ Contributing
 
@@ -113,10 +102,6 @@ We are proud participants in Hacktoberfest 2024! Here’s how you can contribute
 - Always provide clear commit messages and proper PR descriptions.
 - We encourage creating an issue first to discuss your ideas before submitting a PR.
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## 💬 Feedback
 
 If you have any questions or feedback, feel free to reach out by opening an issue or contacting the project maintainers.
@@ -130,7 +115,7 @@ Thanks to all our contributors, Hacktoberfest participants, and the open-source 
 ### ✨ Happy Coding! ✨
 
 ---
-```
+
 
 ### Notes:
 - Make sure to update the GitHub repository link (`https://github.com/bhavsarhem/matchwise.streamlit.app.git`) with the actual repo URL.
